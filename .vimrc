@@ -25,9 +25,6 @@ set foldmethod=indent
 set mouse=a
 set mousemodel=popup
 
-" Convert blanks into tabs
-set expandtab
-
 " Tab size by default
 set shiftwidth=4
 set softtabstop=4
