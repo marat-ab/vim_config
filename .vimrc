@@ -3,6 +3,7 @@ set number
 
 " Enable syntax highlighting
 syntax on
+colorscheme delek
 
 " Search in typing process
 set incsearch
