@@ -1,1 +1,3 @@
-# vim_config
+Install
+cp ~/.vimrc ~/.vimrc.bak
+cp .vimrc ~/.vimrc
